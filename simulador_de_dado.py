@@ -22,7 +22,7 @@ class SimuladorDeDado:
         self.janela = sg.Window('Simulador de Dado', layout = self.layout)
         #ler valores
         self.eventos,self.valores=self.janela.Read()
-        #fazer algo com os valores
+        #fazer algo com os valoress
 
        
 
